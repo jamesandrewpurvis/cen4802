@@ -1,6 +1,4 @@
-# cen4802
-Projects for the class cen4802
+# ISSUE #3
+missing javadoc comments
 
-Hello!
 
-My name is James Purvis. I am twenty-eight year old, and I'm a senior at Valenia College. Github is fascinating.
